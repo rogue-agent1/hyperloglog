@@ -1,13 +1,9 @@
 # hyperloglog
 
-HyperLogLog Cardinality Estimator. Zero-dependency, single-file Python CLI.
+HyperLogLog cardinality estimator. Single-file Python CLI, zero dependencies.
 
 ## Usage
 
 ```bash
-python3 hyperloglog.py --help
+python3 hyperloglog.py
 ```
-
-## License
-
-MIT
